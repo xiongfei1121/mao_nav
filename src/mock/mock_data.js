@@ -412,6 +412,20 @@ export const mockData = {
           "url": "https://tinypng.com",
           "description": "图片压缩工具",
           "icon": "/sitelogo/tinypng.com.ico"
+        },
+        {
+          "id": "site-1754309464142",
+          "name": "帮小忙",
+          "url": "https://tool.browser.qq.com/",
+          "description": "",
+          "icon": "/sitelogo/tool.browser.qq.com.ico"
+        },
+        {
+          "id": "site-1754309570439",
+          "name": "便民查询网",
+          "url": "https://www.bmcx.com/",
+          "description": "",
+          "icon": "/sitelogo/www.bmcx.com.ico"
         }
       ]
     },
