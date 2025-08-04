@@ -8,6 +8,13 @@ export const mockData = {
       "sites": [
         {
           "id": "site-1752857783656",
+          "name": "安康融媒",
+          "url": "https://app.akrt.cn/",
+          "description": "安康融媒后台👌",
+          "icon": "https://img.081213.xyz/2025-06/1750833380864.png"
+        },
+        {
+          "id": "site-1752857783656",
           "name": "OpenAI",
           "url": "https://chatgpt.com",
           "description": "OpenAI,好用👌",
