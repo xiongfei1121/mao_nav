@@ -7,7 +7,7 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
-          "id": "site-1752857783656",
+          "id": "akrm",
           "name": "安康融媒",
           "url": "https://app.akrt.cn/",
           "description": "安康融媒后台👌",
