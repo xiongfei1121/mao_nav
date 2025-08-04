@@ -241,6 +241,13 @@ export const mockData = {
           "icon": "/sitelogo/cloud.siliconflow.cn.ico"
         },
         {
+          "id": "site-1754312803302",
+          "name": "AI工具集",
+          "url": "https://ai-bot.cn/",
+          "description": "",
+          "icon": "/sitelogo/ai-bot.cn.ico"
+        },
+        {
           "id": "chatgpt",
           "name": "ChatGPT",
           "url": "https://chat.openai.com",
@@ -283,6 +290,20 @@ export const mockData = {
       "icon": "🎨",
       "order": 4,
       "sites": [
+        {
+          "id": "site-1754312698876",
+          "name": "凡科快图",
+          "url": "https://kt.fkw.com/sheji.html#/m/index",
+          "description": "",
+          "icon": "/sitelogo/kt.fkw.com.ico"
+        },
+        {
+          "id": "site-1754312751723",
+          "name": "即时设计",
+          "url": "https://js.design/",
+          "description": "",
+          "icon": "/sitelogo/js.design.ico"
+        },
         {
           "id": "figma",
           "name": "Figma",
