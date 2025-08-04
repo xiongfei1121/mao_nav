@@ -97,6 +97,13 @@ export const mockData = {
           "url": "https://esb.sxdaily.com.cn/",
           "description": "陕西日报",
           "icon": "/sitelogo/sxdaily.png"
+        },
+        {
+          "id": "site-1754308735206",
+          "name": "学习强国",
+          "url": "https://gonggao2.xuexi.cn/?logout=1",
+          "description": "供稿系统",
+          "icon": "/sitelogo/gonggao2.xuexi.cn.ico"
         }
       ]
     },
@@ -147,6 +154,20 @@ export const mockData = {
           "url": "https://alist.081213.xyz:8899",
           "description": "",
           "icon": "https://web.081213.xyz:8899/uploads/202506/01JYNMR1MPXFK0ZYWHKP0B4R45.png"
+        },
+        {
+          "id": "site-1754308797429",
+          "name": "腾讯邮箱",
+          "url": "https://mail.qq.com/",
+          "description": "",
+          "icon": "/sitelogo/mail.qq.com.ico"
+        },
+        {
+          "id": "site-1754309006111",
+          "name": "智慧广电学院",
+          "url": "https://training.nrta.gov.cn/",
+          "description": "",
+          "icon": "/sitelogo/zhgd.png"
         }
       ]
     },
