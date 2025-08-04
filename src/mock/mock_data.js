@@ -20,21 +20,21 @@ export const mockData = {
           "description": "安康市人民政府网站",
           "icon": "/sitelogo/ankang.png"
         },
-		    {
+        {
           "id": "akxw",
           "name": "安康新闻网",
           "url": "http://www.akxw.cn/",
           "description": "安康新闻网",
           "icon": "/sitelogo/akxw.png"
         },
-		    {
+        {
           "id": "135editor",
           "name": "135编辑器",
           "url": "https://www.135editor.com/beautify_editor.html",
           "description": "135编辑器",
           "icon": "/sitelogo/135.png"
         },
-		    {
+        {
           "id": "weixin_sph",
           "name": "视频号助手",
           "url": "https://channels.weixin.qq.com/",
@@ -50,7 +50,7 @@ export const mockData = {
         }
       ]
     },
-     {
+    {
       "id": "community",
       "name": "央媒省媒",
       "icon": "👥",
@@ -227,45 +227,9 @@ export const mockData = {
           "url": "https://github.com",
           "description": "代码托管平台",
           "icon": "/sitelogo/github.com.ico"
-        },
-        {
-          "id": "vscode",
-          "name": "VS Code",
-          "url": "https://code.visualstudio.com",
-          "description": "代码编辑器",
-          "icon": "/sitelogo/code.visualstudio.com.ico"
-        },
-        {
-          "id": "webstorm",
-          "name": "WebStorm",
-          "url": "https://www.jetbrains.com/webstorm/",
-          "description": "专业前端IDE",
-          "icon": "/sitelogo/www.jetbrains.com.ico"
-        },
-        {
-          "id": "postman",
-          "name": "Postman",
-          "url": "https://www.postman.com",
-          "description": "API测试工具",
-          "icon": "/sitelogo/www.postman.com.ico"
-        },
-        {
-          "id": "android-studio",
-          "name": "Android Studio",
-          "url": "https://developer.android.com/studio",
-          "description": "Android官方开发工具",
-          "icon": "/sitelogo/developer.android.com.ico"
-        },
-        {
-          "id": "oracle-java",
-          "name": "Oracle Java",
-          "url": "https://www.oracle.com/java/technologies/downloads/",
-          "description": "Oracle官方Java下载",
-          "icon": "/sitelogo/www.oracle.com.ico"
         }
       ]
     },
-   
     {
       "id": "design",
       "name": "设计工具",
@@ -316,20 +280,6 @@ export const mockData = {
           "icon": "/sitelogo/www.binance.com.ico"
         },
         {
-          "id": "okx",
-          "name": "OKX",
-          "url": "https://www.okx.com",
-          "description": "数字资产交易服务平台",
-          "icon": "/sitelogo/www.okx.com.ico"
-        },
-        {
-          "id": "bitget",
-          "name": "Bitget",
-          "url": "https://www.bitget.com",
-          "description": "全球化数字资产交易服务商",
-          "icon": "/sitelogo/www.bitget.com.ico"
-        },
-        {
           "id": "tradingview",
           "name": "TradingView",
           "url": "https://cn.tradingview.com",
@@ -349,20 +299,6 @@ export const mockData = {
           "url": "https://xueqiu.com",
           "description": "聪明的投资者都在这里",
           "icon": "/sitelogo/xueqiu.com.ico"
-        },
-        {
-          "id": "coinbase",
-          "name": "Coinbase",
-          "url": "https://www.coinbase.com",
-          "description": "美国合规加密货币交易平台",
-          "icon": "/sitelogo/www.coinbase.com.ico"
-        },
-        {
-          "id": "futu",
-          "name": "富途牛牛",
-          "url": "https://www.futunn.com",
-          "description": "港美股交易软件",
-          "icon": "/sitelogo/www.futunn.com.ico"
         }
       ]
     },
@@ -474,7 +410,6 @@ export const mockData = {
         }
       ]
     }
-    
   ],
   "title": "德宝导航"
 }
