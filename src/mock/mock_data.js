@@ -97,14 +97,14 @@ export const mockData = {
           "name": "秘塔写作猫",
           "url": "https://xiezuocat.com/",
           "description": "秘塔写作猫",
-          "icon": "/sitelogo/www.notion.so.ico"
+          "icon": "/sitelogo/xiezuocat.ico"
         },
         {
           "id": "xunfei",
           "name": "讯飞智作",
           "url": "https://peiyin.xunfei.cn/",
           "description": "讯飞智作",
-          "icon": "/sitelogo/slack.com.ico"
+          "icon": "/sitelogo/xunfei.png"
         },
         {
           "id": "feishu",
