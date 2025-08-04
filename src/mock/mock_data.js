@@ -54,6 +54,13 @@ export const mockData = {
           "url": "https://creator.douyin.com/creator-micro/home",
           "description": "",
           "icon": "/sitelogo/creator.douyin.com.ico"
+        },
+        {
+          "id": "site-1754306059372",
+          "name": "陕西省专业技术人员继续教育网",
+          "url": "http://jxjy.xidian.edu.cn/",
+          "description": "继续教育",
+          "icon": "/sitelogo/jxjy.xidian.edu.cn.ico"
         }
       ]
     },
