@@ -166,7 +166,8 @@ export const mockData = {
           "id": "site-1754309006111",
           "name": "智慧广电学院",
           "url": "https://training.nrta.gov.cn/",
-          "description": ""
+          "description": "",
+          "icon": "/sitelogo/zhgd.png"
         }
       ]
     },
