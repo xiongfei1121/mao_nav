@@ -61,28 +61,28 @@ export const mockData = {
           "name": "新华网",
           "url": "https://www.xinhuanet.com/",
           "description": "新华网",
-          "icon": "/sitelogo/stackoverflow.com.ico"
+          "icon": "/sitelogo/xinhuanet.png"
         },
         {
           "id": "people",
           "name": "人民网",
           "url": "http://www.people.com.cn/",
           "description": "人民网",
-          "icon": "/sitelogo/linux.do.ico"
+          "icon": "/sitelogo/people.png"
         },
         {
           "id": "cctv",
           "name": "央视新闻",
           "url": "https://news.cctv.com/",
           "description": "央视新闻",
-          "icon": "/sitelogo/www.nodeseek.com.ico"
+          "icon": "/sitelogo/cctv.jpg"
         },
         {
           "id": "sxdaily",
           "name": "陕西日报",
           "url": "https://esb.sxdaily.com.cn/",
           "description": "陕西日报",
-          "icon": "/sitelogo/www.v2ex.com.ico"
+          "icon": "/sitelogo/sxdaily.png"
         }
       ]
     },
