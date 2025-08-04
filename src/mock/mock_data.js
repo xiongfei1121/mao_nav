@@ -432,7 +432,8 @@ export const mockData = {
           "id": "site-1754306219211",
           "name": "德宝的影视站",
           "url": "https://v.ztt.qzz.io",
-          "description": "影视站"
+          "description": "影视站",
+          "icon": "/sitelogo/dbys.png"
         }
       ]
     }
