@@ -50,11 +50,47 @@ export const mockData = {
         }
       ]
     },
+     {
+      "id": "community",
+      "name": "央媒省媒",
+      "icon": "👥",
+      "order": 1,
+      "sites": [
+        {
+          "id": "xinhuanet",
+          "name": "新华网",
+          "url": "https://www.xinhuanet.com/",
+          "description": "新华网",
+          "icon": "/sitelogo/stackoverflow.com.ico"
+        },
+        {
+          "id": "people",
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "description": "人民网",
+          "icon": "/sitelogo/linux.do.ico"
+        },
+        {
+          "id": "cctv",
+          "name": "央视新闻",
+          "url": "https://news.cctv.com/",
+          "description": "央视新闻",
+          "icon": "/sitelogo/www.nodeseek.com.ico"
+        },
+        {
+          "id": "sxdaily",
+          "name": "陕西日报",
+          "url": "https://esb.sxdaily.com.cn/",
+          "description": "陕西日报",
+          "icon": "/sitelogo/www.v2ex.com.ico"
+        }
+      ]
+    },
     {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 9,
+      "order": 2,
       "sites": [
         {
           "id": "notion",
@@ -90,7 +126,7 @@ export const mockData = {
       "id": "ai-tools",
       "name": "AI智能",
       "icon": "🤖",
-      "order": 1,
+      "order": 3,
       "sites": [
         {
           "id": "chatgpt",
@@ -133,7 +169,7 @@ export const mockData = {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 2,
+      "order": 4,
       "sites": [
         {
           "id": "cloudflare",
@@ -190,7 +226,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 3,
+      "order": 5,
       "sites": [
         {
           "id": "github",
@@ -236,54 +272,12 @@ export const mockData = {
         }
       ]
     },
-    {
-      "id": "community",
-      "name": "社区论坛",
-      "icon": "👥",
-      "order": 6,
-      "sites": [
-        {
-          "id": "stackoverflow",
-          "name": "Stack Overflow",
-          "url": "https://stackoverflow.com",
-          "description": "程序员问答社区",
-          "icon": "/sitelogo/stackoverflow.com.ico"
-        },
-        {
-          "id": "linuxdo",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux与开源技术社区",
-          "icon": "/sitelogo/linux.do.ico"
-        },
-        {
-          "id": "nodeseek",
-          "name": "NodeSeek",
-          "url": "https://www.nodeseek.com",
-          "description": "极客技术社区",
-          "icon": "/sitelogo/www.nodeseek.com.ico"
-        },
-        {
-          "id": "v2ex",
-          "name": "V2EX",
-          "url": "https://www.v2ex.com",
-          "description": "创意工作者社区",
-          "icon": "/sitelogo/www.v2ex.com.ico"
-        },
-        {
-          "id": "52pojie",
-          "name": "吾爱破解",
-          "url": "https://www.52pojie.cn/",
-          "description": "软件安全与破解技术论坛",
-          "icon": "/sitelogo/www.52pojie.cn.ico"
-        }
-      ]
-    },
+   
     {
       "id": "design",
       "name": "设计工具",
       "icon": "🎨",
-      "order": 4,
+      "order": 6,
       "sites": [
         {
           "id": "figma",
@@ -319,7 +313,7 @@ export const mockData = {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 5,
+      "order": 7,
       "sites": [
         {
           "id": "binance",
@@ -383,7 +377,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 6,
+      "order": 8,
       "sites": [
         {
           "id": "mdn",
@@ -419,7 +413,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 7,
+      "order": 9,
       "sites": [
         {
           "id": "json-formatter",
@@ -455,7 +449,7 @@ export const mockData = {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 8,
+      "order": 10,
       "sites": [
         {
           "id": "bilibili",
