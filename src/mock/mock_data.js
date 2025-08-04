@@ -185,6 +185,13 @@ export const mockData = {
           "icon": "/sitelogo/jimeng.jianying.com.ico"
         },
         {
+          "id": "site-1754310988268",
+          "name": "可灵AI",
+          "url": "https://app.klingai.com/cn/",
+          "description": "",
+          "icon": "/sitelogo/app.klingai.com.ico"
+        },
+        {
           "id": "site-1754309924525",
           "name": "deepseek",
           "url": "https://www.deepseek.com/",
@@ -211,6 +218,27 @@ export const mockData = {
           "url": "https://www.tongyi.com/",
           "description": "",
           "icon": "/sitelogo/tyqw.png"
+        },
+        {
+          "id": "site-1754310313276",
+          "name": "文心一言",
+          "url": "https://yiyan.baidu.com/",
+          "description": "",
+          "icon": "/sitelogo/yiyan.baidu.com.ico"
+        },
+        {
+          "id": "site-1754310335868",
+          "name": "豆包",
+          "url": "https://www.doubao.com/chat/",
+          "description": "",
+          "icon": "/sitelogo/www.doubao.com.ico"
+        },
+        {
+          "id": "site-1754310770484",
+          "name": "硅基流动",
+          "url": "https://cloud.siliconflow.cn/",
+          "description": "",
+          "icon": "/sitelogo/cloud.siliconflow.cn.ico"
         },
         {
           "id": "chatgpt",
@@ -246,20 +274,6 @@ export const mockData = {
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
           "icon": "/sitelogo/cursor.sh.ico"
-        },
-        {
-          "id": "site-1754310313276",
-          "name": "文心一言",
-          "url": "https://yiyan.baidu.com/",
-          "description": "",
-          "icon": "/sitelogo/yiyan.baidu.com.ico"
-        },
-        {
-          "id": "site-1754310335868",
-          "name": "豆包",
-          "url": "https://www.doubao.com/chat/",
-          "description": "",
-          "icon": "/sitelogo/www.doubao.com.ico"
         }
       ]
     },
