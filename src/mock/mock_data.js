@@ -315,8 +315,9 @@ export const mockData = {
         {
           "id": "site-1754311080075",
           "name": "宝塔面板",
-          "url": "https://117.36.154.21:29436/home",
-          "description": ""
+          "url": "https://117.36.154.21:29436",
+          "description": "",
+          "icon": "/sitelogo/www.bt.cn.ico"
         },
         {
           "id": "cloudflare",
@@ -535,6 +536,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "德宝导航站",
-  "_fileSha": "b3c72c5793fbe692936563650819c119d9eb136e"
+  "title": "德宝导航站"
 }
