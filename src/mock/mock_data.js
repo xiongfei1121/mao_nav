@@ -47,6 +47,13 @@ export const mockData = {
           "url": "https://channels.weixin.qq.com/",
           "description": "微信公众平台",
           "icon": "/sitelogo/wx.png"
+        },
+        {
+          "id": "site-1754305963012",
+          "name": "抖音创作者中心",
+          "url": "https://creator.douyin.com/creator-micro/home",
+          "description": "",
+          "icon": "/sitelogo/creator.douyin.com.ico"
         }
       ]
     },
