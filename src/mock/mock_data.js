@@ -537,7 +537,8 @@ export const mockData = {
           "id": "site-1754313445291",
           "name": "观影",
           "url": "https://www.gying.org/",
-          "description": ""
+          "description": "",
+          "icon": "https://img.081213.xyz/2025-08/1754350393260.png"
         },
         {
           "id": "site-1754313489139",
