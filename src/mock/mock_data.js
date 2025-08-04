@@ -178,6 +178,41 @@ export const mockData = {
       "order": 3,
       "sites": [
         {
+          "id": "site-1754309898005",
+          "name": "即梦AI",
+          "url": "https://jimeng.jianying.com/ai-tool/home",
+          "description": "",
+          "icon": "/sitelogo/jimeng.jianying.com.ico"
+        },
+        {
+          "id": "site-1754309924525",
+          "name": "deepseek",
+          "url": "https://www.deepseek.com/",
+          "description": "",
+          "icon": "/sitelogo/www.deepseek.com.ico"
+        },
+        {
+          "id": "site-1754309955124",
+          "name": "Kimi",
+          "url": "https://www.kimi.com/",
+          "description": "",
+          "icon": "/sitelogo/www.kimi.com.ico"
+        },
+        {
+          "id": "site-1754310014109",
+          "name": "腾讯元宝",
+          "url": "https://yuanbao.tencent.com/",
+          "description": "",
+          "icon": "/sitelogo/yuanbao.tencent.com.ico"
+        },
+        {
+          "id": "site-1754310129620",
+          "name": "通义千问",
+          "url": "https://www.tongyi.com/",
+          "description": "",
+          "icon": "/sitelogo/tyqw.png"
+        },
+        {
           "id": "chatgpt",
           "name": "ChatGPT",
           "url": "https://chat.openai.com",
@@ -211,6 +246,20 @@ export const mockData = {
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
           "icon": "/sitelogo/cursor.sh.ico"
+        },
+        {
+          "id": "site-1754310313276",
+          "name": "文心一言",
+          "url": "https://yiyan.baidu.com/",
+          "description": "",
+          "icon": "/sitelogo/yiyan.baidu.com.ico"
+        },
+        {
+          "id": "site-1754310335868",
+          "name": "豆包",
+          "url": "https://www.doubao.com/chat/",
+          "description": "",
+          "icon": "/sitelogo/www.doubao.com.ico"
         }
       ]
     },
