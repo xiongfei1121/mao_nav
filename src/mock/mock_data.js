@@ -88,30 +88,23 @@ export const mockData = {
     },
     {
       "id": "office",
-      "name": "办公协作",
+      "name": "办公工具",
       "icon": "💼",
       "order": 2,
       "sites": [
         {
-          "id": "notion",
-          "name": "Notion",
-          "url": "https://www.notion.so",
-          "description": "全能工作空间",
+          "id": "xiezuocat",
+          "name": "秘塔写作猫",
+          "url": "https://xiezuocat.com/",
+          "description": "秘塔写作猫",
           "icon": "/sitelogo/www.notion.so.ico"
         },
         {
-          "id": "slack",
-          "name": "Slack",
-          "url": "https://slack.com",
-          "description": "团队协作工具",
+          "id": "xunfei",
+          "name": "讯飞智作",
+          "url": "https://peiyin.xunfei.cn/",
+          "description": "讯飞智作",
           "icon": "/sitelogo/slack.com.ico"
-        },
-        {
-          "id": "trello",
-          "name": "Trello",
-          "url": "https://trello.com",
-          "description": "项目管理工具",
-          "icon": "/sitelogo/trello.com.ico"
         },
         {
           "id": "feishu",
