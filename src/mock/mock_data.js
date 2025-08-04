@@ -93,11 +93,11 @@ export const mockData = {
       "order": 2,
       "sites": [
         {
-          "id": "xiezuocat",
-          "name": "秘塔写作猫",
-          "url": "https://xiezuocat.com/",
-          "description": "秘塔写作猫",
-          "icon": "/sitelogo/xiezuocat.ico"
+          "id": "site-1754301864179",
+          "name": "政府网传视频",
+          "url": "https://vod.ankang.gov.cn/login.html",
+          "description": "政府网传安康新闻、金州播报视频",
+          "icon": "https://web.081213.xyz:8899/uploads/202506/01JYKCZXHE6PGEFCNS1YKT5DND.ico"
         },
         {
           "id": "xunfei",
@@ -107,11 +107,32 @@ export const mockData = {
           "icon": "/sitelogo/xunfei.png"
         },
         {
+          "id": "xiezuocat",
+          "name": "秘塔写作猫",
+          "url": "https://xiezuocat.com/",
+          "description": "秘塔写作猫",
+          "icon": "/sitelogo/xiezuocat.ico"
+        },
+        {
           "id": "feishu",
           "name": "飞书",
           "url": "https://www.feishu.cn",
           "description": "企业协作平台",
           "icon": "/sitelogo/www.feishu.cn.ico"
+        },
+        {
+          "id": "site-1754301958039",
+          "name": "腾讯文档",
+          "url": "https://docs.qq.com/",
+          "description": "腾讯文档",
+          "icon": "https://web.081213.xyz:8899/uploads/202507/01JZA6X2797DWWVE93MTYVZBNQ.png"
+        },
+        {
+          "id": "site-1754302023964",
+          "name": "德宝聚合网盒",
+          "url": "https://alist.081213.xyz:8899",
+          "description": "",
+          "icon": "https://web.081213.xyz:8899/uploads/202506/01JYNMR1MPXFK0ZYWHKP0B4R45.png"
         }
       ]
     },
