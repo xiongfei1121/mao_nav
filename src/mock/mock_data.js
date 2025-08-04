@@ -532,6 +532,19 @@ export const mockData = {
           "url": "https://v.ztt.qzz.io",
           "description": "影视站",
           "icon": "/sitelogo/dbys.png"
+        },
+        {
+          "id": "site-1754313445291",
+          "name": "观影",
+          "url": "https://www.gying.org/",
+          "description": ""
+        },
+        {
+          "id": "site-1754313489139",
+          "name": "6V电影",
+          "url": "https://www.6vdy.org/",
+          "description": "",
+          "icon": "/sitelogo/www.6vdy.org.ico"
         }
       ]
     }
