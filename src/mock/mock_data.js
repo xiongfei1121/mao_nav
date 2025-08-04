@@ -320,6 +320,12 @@ export const mockData = {
       "order": 5,
       "sites": [
         {
+          "id": "site-1754311080075",
+          "name": "宝塔面板",
+          "url": "https://117.36.154.21:29436/home",
+          "description": ""
+        },
+        {
           "id": "cloudflare",
           "name": "Cloudflare",
           "url": "https://www.cloudflare.com",
