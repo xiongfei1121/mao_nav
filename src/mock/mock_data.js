@@ -395,6 +395,13 @@ export const mockData = {
           "url": "https://phet.colorado.edu/zh_CN/",
           "description": "免费的在线物理、化学、生物、地理及数学仿真程序",
           "icon": "/sitelogo/phet.colorado.edu.ico"
+        },
+        {
+          "id": "site-1754377944608",
+          "name": "全球经典儿童睡前故事",
+          "url": "https://beddystories.com/zh",
+          "description": "",
+          "icon": "/sitelogo/beddystories.com.ico"
         }
       ]
     },
