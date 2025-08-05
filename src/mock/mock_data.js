@@ -495,6 +495,13 @@ export const mockData = {
           "url": "https://www.bmcx.com/",
           "description": "",
           "icon": "/sitelogo/www.bmcx.com.ico"
+        },
+        {
+          "id": "site-1754356370080",
+          "name": "在线抠图",
+          "url": "https://remove.photos/zh-cn/",
+          "description": "",
+          "icon": "/sitelogo/remove.photos.ico"
         }
       ]
     },
