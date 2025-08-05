@@ -239,6 +239,12 @@ export const mockData = {
           "url": "https://chat.openai.com",
           "description": "OpenAI对话AI助手",
           "icon": "/sitelogo/chat.openai.com.ico"
+        },
+        {
+          "id": "site-1754356244393",
+          "name": "AI人声去除器",
+          "url": "https://aivocalremover.com/",
+          "description": ""
         }
       ]
     },
