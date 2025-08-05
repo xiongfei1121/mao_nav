@@ -54,13 +54,6 @@ export const mockData = {
           "url": "https://creator.douyin.com/creator-micro/home",
           "description": "",
           "icon": "/sitelogo/creator.douyin.com.ico"
-        },
-        {
-          "id": "site-1754306059372",
-          "name": "陕西省专业技术人员继续教育网",
-          "url": "http://jxjy.xidian.edu.cn/",
-          "description": "继续教育",
-          "icon": "/sitelogo/jxjy.xidian.edu.cn.ico"
         }
       ]
     },
@@ -161,13 +154,6 @@ export const mockData = {
           "url": "https://mail.qq.com/",
           "description": "",
           "icon": "/sitelogo/mail.qq.com.ico"
-        },
-        {
-          "id": "site-1754309006111",
-          "name": "智慧广电学院",
-          "url": "https://training.nrta.gov.cn/",
-          "description": "",
-          "icon": "/sitelogo/zhgd.png"
         }
       ]
     },
@@ -439,6 +425,20 @@ export const mockData = {
           "url": "https://www.coursera.org",
           "description": "在线课程平台",
           "icon": "/sitelogo/www.coursera.org.ico"
+        },
+        {
+          "id": "site-1754306059372",
+          "name": "陕西省专业技术人员继续教育网",
+          "url": "http://jxjy.xidian.edu.cn/",
+          "description": "继续教育",
+          "icon": "/sitelogo/jxjy.xidian.edu.cn.ico"
+        },
+        {
+          "id": "site-1754309006111",
+          "name": "智慧广电学院",
+          "url": "https://training.nrta.gov.cn/",
+          "description": "",
+          "icon": "/sitelogo/zhgd.png"
         }
       ]
     },
