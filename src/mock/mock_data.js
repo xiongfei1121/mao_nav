@@ -445,6 +445,20 @@ export const mockData = {
           "url": "https://training.nrta.gov.cn/",
           "description": "",
           "icon": "/sitelogo/zhgd.png"
+        },
+        {
+          "id": "site-1754356465360",
+          "name": "国家中小学智慧教育平台",
+          "url": "https://basic.smartedu.cn/",
+          "description": "",
+          "icon": "/sitelogo/basic.smartedu.cn.ico"
+        },
+        {
+          "id": "site-1754356876111",
+          "name": "Phet模拟实验官网",
+          "url": "https://phet.colorado.edu/zh_CN/",
+          "description": "免费的在线物理、化学、生物、地理及数学仿真程序",
+          "icon": "/sitelogo/phet.colorado.edu.ico"
         }
       ]
     },
