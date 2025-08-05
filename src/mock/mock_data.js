@@ -575,6 +575,21 @@ export const mockData = {
           "icon": "/sitelogo/www.6vdy.org.ico"
         }
       ]
+    },
+    {
+      "id": "category-1754359657025",
+      "icon": "🎵",
+      "name": "音乐",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1754359689783",
+          "name": "无版权音乐库",
+          "url": "https://www.freesound.cn/",
+          "description": "",
+          "icon": "/sitelogo/www.freesound.cn.ico"
+        }
+      ]
     }
   ],
   "title": "德宝导航站"
