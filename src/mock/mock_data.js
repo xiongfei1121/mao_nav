@@ -245,6 +245,13 @@ export const mockData = {
           "name": "AI人声去除器",
           "url": "https://aivocalremover.com/",
           "description": ""
+        },
+        {
+          "id": "site-1754449164427",
+          "name": "智谱AI",
+          "url": "https://open.bigmodel.cn/console/overview",
+          "description": "",
+          "icon": "/sitelogo/open.bigmodel.cn.ico"
         }
       ]
     },
