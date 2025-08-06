@@ -244,7 +244,7 @@ export const mockData = {
           "id": "site-1754356244393",
           "name": "AI人声去除器",
           "url": "https://aivocalremover.com/",
-          "description": ""
+          "icon": "https://img.081213.xyz/2025-08/1754465991377.png"
         },
         {
           "id": "site-1754449164427",
