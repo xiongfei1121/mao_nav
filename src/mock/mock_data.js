@@ -161,6 +161,20 @@ export const mockData = {
           "url": "https://mail.qq.com/",
           "description": "",
           "icon": "/sitelogo/mail.qq.com.ico"
+        },
+        {
+          "id": "site-1754560084710",
+          "name": "秀米",
+          "url": "https://xiumi.us/#/",
+          "description": "",
+          "icon": "https://edt.xiumius.cn/images/b80cd8.xiumi_logo_40.png"
+        },
+        {
+          "id": "site-1754560210776",
+          "name": "创客贴",
+          "url": "https://www.chuangkit.com/",
+          "description": "",
+          "icon": "https://www.chuangkit.com/distsaas/img/logo.7f1eaf73.svg"
         }
       ]
     },
