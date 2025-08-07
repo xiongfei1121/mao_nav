@@ -54,6 +54,13 @@ export const mockData = {
           "url": "https://creator.douyin.com/creator-micro/home",
           "description": "",
           "icon": "/sitelogo/creator.douyin.com.ico"
+        },
+        {
+          "id": "site-1754558335097",
+          "name": "MCH融合工作平台",
+          "url": "http://mch.aktv.com.cn:19207",
+          "description": "",
+          "icon": "/sitelogo/mch.png"
         }
       ]
     },
