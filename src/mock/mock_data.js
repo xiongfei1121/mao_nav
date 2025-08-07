@@ -174,6 +174,13 @@ export const mockData = {
           "name": "飞鹰智能校对",
           "url": "https://feiying.iflytek.com/#/main",
           "description": ""
+        },
+        {
+          "id": "site-1754560696495",
+          "name": "Notion",
+          "url": "https://www.notion.so",
+          "description": "",
+          "icon": "/sitelogo/www.notion.so.ico"
         }
       ]
     },
