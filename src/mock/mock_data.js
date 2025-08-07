@@ -175,6 +175,12 @@ export const mockData = {
           "url": "https://www.chuangkit.com/",
           "description": "",
           "icon": "https://www.chuangkit.com/distsaas/img/logo.7f1eaf73.svg"
+        },
+        {
+          "id": "site-1754560308999",
+          "name": "飞鹰智能校对",
+          "url": "https://feiying.iflytek.com/#/main",
+          "description": ""
         }
       ]
     },
