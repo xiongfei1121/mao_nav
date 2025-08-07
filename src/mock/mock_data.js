@@ -114,6 +114,13 @@ export const mockData = {
       "order": 2,
       "sites": [
         {
+          "id": "site-1754560084710",
+          "name": "秀米",
+          "url": "https://xiumi.us/#/",
+          "description": "",
+          "icon": "https://edt.xiumius.cn/images/b80cd8.xiumi_logo_40.png"
+        },
+        {
           "id": "site-1754301864179",
           "name": "政府网传视频",
           "url": "https://vod.ankang.gov.cn/login.html",
@@ -161,20 +168,6 @@ export const mockData = {
           "url": "https://mail.qq.com/",
           "description": "",
           "icon": "/sitelogo/mail.qq.com.ico"
-        },
-        {
-          "id": "site-1754560084710",
-          "name": "秀米",
-          "url": "https://xiumi.us/#/",
-          "description": "",
-          "icon": "https://edt.xiumius.cn/images/b80cd8.xiumi_logo_40.png"
-        },
-        {
-          "id": "site-1754560210776",
-          "name": "创客贴",
-          "url": "https://www.chuangkit.com/",
-          "description": "",
-          "icon": "https://www.chuangkit.com/distsaas/img/logo.7f1eaf73.svg"
         },
         {
           "id": "site-1754560308999",
@@ -329,6 +322,13 @@ export const mockData = {
           "url": "https://www.adobe.com/products/xd.html",
           "description": "用户体验设计工具",
           "icon": "/sitelogo/www.adobe.com.ico"
+        },
+        {
+          "id": "site-1754560210776",
+          "name": "创客贴",
+          "url": "https://www.chuangkit.com/",
+          "description": "",
+          "icon": "https://www.chuangkit.com/distsaas/img/logo.7f1eaf73.svg"
         }
       ]
     },
