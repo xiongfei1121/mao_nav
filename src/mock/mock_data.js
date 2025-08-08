@@ -342,7 +342,7 @@ export const mockData = {
           "name": "阿里巴巴矢量图标库",
           "url": "https://www.iconfont.cn/",
           "description": "",
-          "icon": "sitelogo/www.iconfont.cn.png"
+          "icon": "/sitelogo/www.iconfont.cn.png"
         }
       ]
     },
