@@ -336,6 +336,13 @@ export const mockData = {
           "url": "https://www.chuangkit.com/",
           "description": "",
           "icon": "https://www.chuangkit.com/distsaas/img/logo.7f1eaf73.svg"
+        },
+        {
+          "id": "site-1754613081421",
+          "name": "阿里巴巴矢量图标库",
+          "url": "https://www.iconfont.cn/",
+          "description": "",
+          "icon": "sitelogo/www.iconfont.cn.png"
         }
       ]
     },
