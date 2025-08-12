@@ -618,5 +618,7 @@ export const mockData = {
       ]
     }
   ],
-  "title": "德宝导航站"
+  "title": "德宝导航站",
+  "_fileSha": "db00ac0383a4fd27203f2ab95c51f1fdbc4f407d",
+  "search": "baidu"
 }
