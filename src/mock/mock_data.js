@@ -598,7 +598,7 @@ export const mockData = {
           "name": "6V电影",
           "url": "https://www.6vdy.org/",
           "description": "",
-          "icon": "/sitelogo/www.6vdy.org.ico"
+          "icon": "/sitelogo/6vdy.png"
         }
       ]
     },
