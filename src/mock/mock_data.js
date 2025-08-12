@@ -292,7 +292,7 @@ export const mockData = {
           "name": "智谱AI",
           "url": "https://open.bigmodel.cn/console/overview",
           "description": "",
-          "icon": "/sitelogo/open.bigmodel.cn.ico"
+          "icon": "/sitelogo/bigmodel.png"
         },
         {
           "id": "site-1754788816839",
