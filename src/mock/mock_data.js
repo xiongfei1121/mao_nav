@@ -272,7 +272,7 @@ export const mockData = {
           "name": "AI工具集",
           "url": "https://ai-bot.cn/",
           "description": "",
-          "icon": "/sitelogo/ai-bot.cn.ico"
+          "icon": "/sitelogo/ai-bot.cn.png"
         },
         {
           "id": "chatgpt",
