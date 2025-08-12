@@ -542,6 +542,13 @@ export const mockData = {
           "url": "https://remove.photos/zh-cn/",
           "description": "",
           "icon": "/sitelogo/remove.photos.ico"
+        },
+        {
+          "id": "site-1754996266553",
+          "name": "佐糖",
+          "url": "https://picwish.cn/ai-blur-background",
+          "description": "AI模糊图片背景",
+          "icon": "/sitelogo/zt.svg"
         }
       ]
     },
