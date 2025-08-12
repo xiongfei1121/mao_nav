@@ -53,7 +53,7 @@ export const mockData = {
           "name": "抖音创作者中心",
           "url": "https://creator.douyin.com/creator-micro/home",
           "description": "",
-          "icon": "/sitelogo/creator.douyin.com.ico"
+          "icon": "/sitelogo/douyin.png"
         },
         {
           "id": "site-1754558335097",
@@ -314,7 +314,7 @@ export const mockData = {
           "name": "凡科快图",
           "url": "https://kt.fkw.com/sheji.html#/m/index",
           "description": "",
-          "icon": "/sitelogo/kt.fkw.com.ico"
+          "icon": "/sitelogo/fkw.ico"
         },
         {
           "id": "site-1754312751723",
