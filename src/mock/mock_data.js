@@ -265,7 +265,7 @@ export const mockData = {
           "name": "硅基流动",
           "url": "https://cloud.siliconflow.cn/",
           "description": "",
-          "icon": "/sitelogo/cloud.siliconflow.cn.ico"
+          "icon": "/sitelogo/siliconflow.ico"
         },
         {
           "id": "site-1754312803302",
