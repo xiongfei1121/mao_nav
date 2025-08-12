@@ -75,7 +75,7 @@ export const mockData = {
           "name": "新华网",
           "url": "https://www.xinhuanet.com/",
           "description": "新华网",
-          "icon": "/sitelogo/xinhuanet.png"
+          "icon": "https://img.081213.xyz/2025-08/1754987040662.png"
         },
         {
           "id": "people",
@@ -618,7 +618,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "德宝导航站",
-  "_fileSha": "db00ac0383a4fd27203f2ab95c51f1fdbc4f407d",
-  "search": "baidu"
+  "title": "德宝导航站"
 }
