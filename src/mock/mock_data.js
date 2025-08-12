@@ -385,7 +385,7 @@ export const mockData = {
           "name": "宝塔面板",
           "url": "https://117.36.154.21:29436",
           "description": "",
-          "icon": "/sitelogo/www.bt.cn.ico"
+          "icon": "/sitelogo/baota.svg"
         },
         {
           "id": "cloudflare",
