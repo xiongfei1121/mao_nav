@@ -209,7 +209,7 @@ export const mockData = {
           "name": "即梦AI",
           "url": "https://jimeng.jianying.com/ai-tool/home",
           "description": "",
-          "icon": "/sitelogo/jimeng.jianying.com.ico"
+          "icon": "/sitelogo/jimeng.png"
         },
         {
           "id": "site-1754310988268",
