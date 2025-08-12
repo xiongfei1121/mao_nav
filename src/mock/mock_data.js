@@ -223,14 +223,14 @@ export const mockData = {
           "name": "deepseek",
           "url": "https://www.deepseek.com/",
           "description": "",
-          "icon": "/sitelogo/www.deepseek.com.ico"
+          "icon": "/sitelogo/deepseek.com.ico"
         },
         {
           "id": "site-1754309955124",
           "name": "Kimi",
           "url": "https://www.kimi.com/",
           "description": "",
-          "icon": "/sitelogo/www.kimi.com.ico"
+          "icon": "/sitelogo/kimi.png"
         },
         {
           "id": "site-1754310014109",
