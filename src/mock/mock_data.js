@@ -499,7 +499,7 @@ export const mockData = {
           "name": "帮小忙",
           "url": "https://tool.browser.qq.com/",
           "description": "",
-          "icon": "/sitelogo/tool.browser.qq.com.ico"
+          "icon": "/sitelogo/tool.browser.qq.png"
         },
         {
           "id": "site-1754309570439",
