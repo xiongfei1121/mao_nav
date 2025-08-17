@@ -187,7 +187,7 @@ export const mockData = {
           "name": "GET笔记",
           "url": "https://www.biji.com/",
           "description": "",
-          "icon": "/sitelogo/getbiji.ico"
+          "icon": "/logo/biji.com.ico"
         },
         {
           "id": "site-1754881975391",
