@@ -167,7 +167,7 @@ export const mockData = {
           "name": "腾讯邮箱",
           "url": "https://mail.qq.com/",
           "description": "",
-          "icon": "/sitelogo/mail.qq.com.ico"
+          "icon": "/logo/mail.qq.com.png"
         },
         {
           "id": "site-1754560308999",
