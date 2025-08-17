@@ -194,7 +194,7 @@ export const mockData = {
           "name": "腾讯ima",
           "url": "https://ima.qq.com/",
           "description": "知识库",
-          "icon": "/sitelogo/ima.svg"
+          "icon": "/logo/ima.svg"
         }
       ]
     },
