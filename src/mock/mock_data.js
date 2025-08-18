@@ -251,14 +251,14 @@ export const mockData = {
           "name": "文心一言",
           "url": "https://yiyan.baidu.com/",
           "description": "",
-          "icon": "/sitelogo/yiyan.baidu.com.ico"
+          "icon": "/logo/yiyan.png"
         },
         {
           "id": "site-1754310335868",
           "name": "豆包",
           "url": "https://www.doubao.com/chat/",
           "description": "",
-          "icon": "/sitelogo/www.doubao.com.ico"
+          "icon": "/logo/doubao.png"
         },
         {
           "id": "site-1754310770484",
