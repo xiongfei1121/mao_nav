@@ -299,7 +299,7 @@ export const mockData = {
           "name": "扣子",
           "url": "https://www.coze.cn",
           "description": "",
-          "icon": "/sitelogo/coze.png"
+          "icon": "/logo/coze.png"
         }
       ]
     },
