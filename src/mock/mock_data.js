@@ -570,7 +570,7 @@ export const mockData = {
           "name": "观影",
           "url": "https://www.gying.org/",
           "description": "",
-          "icon": "/sitelogo/gying.png"
+          "icon": "/logo/gying.ico"
         },
         {
           "id": "site-1754313489139",
