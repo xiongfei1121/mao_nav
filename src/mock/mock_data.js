@@ -244,7 +244,7 @@ export const mockData = {
           "name": "通义千问",
           "url": "https://www.tongyi.com/",
           "description": "",
-          "icon": "/sitelogo/tyqw.png"
+          "icon": "/logo/tongyi.png"
         },
         {
           "id": "site-1754310313276",
