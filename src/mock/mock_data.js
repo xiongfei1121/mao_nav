@@ -506,7 +506,7 @@ export const mockData = {
           "name": "便民查询网",
           "url": "https://www.bmcx.com/",
           "description": "",
-          "icon": "/sitelogo/www.bmcx.com.ico"
+          "icon": "/logo/cha.png"
         },
         {
           "id": "site-1754356370080",
