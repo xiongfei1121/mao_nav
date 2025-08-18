@@ -592,7 +592,7 @@ export const mockData = {
           "name": "无版权音乐库",
           "url": "https://www.freesound.cn/",
           "description": "",
-          "icon": "/sitelogo/www.freesound.cn.ico"
+          "icon": "/logo/freesound.cn.png"
         }
       ]
     }
