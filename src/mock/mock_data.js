@@ -513,7 +513,7 @@ export const mockData = {
           "name": "在线抠图",
           "url": "https://remove.photos/zh-cn/",
           "description": "",
-          "icon": "/sitelogo/remove.photos.ico"
+          "icon": "/logo/remove.photos.png"
         },
         {
           "id": "site-1754996266553",
