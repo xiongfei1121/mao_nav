@@ -237,7 +237,7 @@ export const mockData = {
           "name": "腾讯元宝",
           "url": "https://yuanbao.tencent.com/",
           "description": "",
-          "icon": "/sitelogo/yuanbao.tencent.com.ico"
+          "icon": "/logo/yuanbao.png"
         },
         {
           "id": "site-1754310129620",
