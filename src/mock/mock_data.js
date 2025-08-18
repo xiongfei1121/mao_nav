@@ -514,6 +514,13 @@ export const mockData = {
           "url": "https://www.speedtest.net/",
           "description": "检测网速",
           "icon": "/logo/speedtest.png"
+        },
+        {
+          "id": "site-1755510112604",
+          "name": "ITdog",
+          "url": "https://www.itdog.cn/",
+          "description": "",
+          "icon": "/logo/itdog.png"
         }
       ]
     },
