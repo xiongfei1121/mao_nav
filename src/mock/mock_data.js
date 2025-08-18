@@ -413,7 +413,7 @@ export const mockData = {
           "name": "爪云",
           "url": "https://eu-central-1.run.claw.cloud/",
           "description": "",
-          "icon": "/sitelogo/eu-central-1.run.claw.cloud.png"
+          "icon": "/logo/eu-central-1.run.claw.cloud.png"
         }
       ]
     },
