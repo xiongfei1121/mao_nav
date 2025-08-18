@@ -456,7 +456,7 @@ export const mockData = {
           "name": "全球经典儿童睡前故事",
           "url": "https://beddystories.com/zh",
           "description": "",
-          "icon": "/sitelogo/beddystories.com.ico"
+          "icon": "/logo/beddystories.com.svg"
         }
       ]
     },
