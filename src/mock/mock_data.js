@@ -216,7 +216,7 @@ export const mockData = {
           "name": "可灵AI",
           "url": "https://app.klingai.com/cn/",
           "description": "",
-          "icon": "/sitelogo/app.klingai.com.ico"
+          "icon": "/logo/klingai.com.ico"
         },
         {
           "id": "site-1754309924525",
