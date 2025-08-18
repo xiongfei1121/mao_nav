@@ -563,7 +563,7 @@ export const mockData = {
           "name": "德宝的影视站",
           "url": "https://v.ztt.qzz.io",
           "description": "影视站",
-          "icon": "/sitelogo/dbys.png"
+          "icon": "/logo/moontv.png"
         },
         {
           "id": "site-1754313445291",
