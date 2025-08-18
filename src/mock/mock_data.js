@@ -321,7 +321,7 @@ export const mockData = {
           "name": "即时设计",
           "url": "https://js.design/",
           "description": "",
-          "icon": "/sitelogo/js.design.ico"
+          "icon": "/logo/js.design.png"
         },
         {
           "id": "site-1754560210776",
