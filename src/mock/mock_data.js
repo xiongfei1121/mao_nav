@@ -46,7 +46,7 @@ export const mockData = {
           "name": "微信公众平台",
           "url": "https://channels.weixin.qq.com/",
           "description": "微信公众平台",
-          "icon": "/sitelogo/wx.png"
+          "icon": "/logo/wx.png"
         },
         {
           "id": "site-1754305963012",
