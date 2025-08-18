@@ -428,14 +428,14 @@ export const mockData = {
           "name": "陕西省专业技术人员继续教育网",
           "url": "http://jxjy.xidian.edu.cn/",
           "description": "继续教育",
-          "icon": "/sitelogo/jxjy.xidian.edu.cn.ico"
+          "icon": "/logo/jxjy.ico"
         },
         {
           "id": "site-1754309006111",
           "name": "智慧广电学院",
           "url": "https://training.nrta.gov.cn/",
           "description": "",
-          "icon": "/sitelogo/zhgd.png"
+          "icon": "/logo/training.nrta.gov.cn.png"
         },
         {
           "id": "site-1754356465360",
