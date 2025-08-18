@@ -103,7 +103,7 @@ export const mockData = {
           "name": "学习强国",
           "url": "https://gonggao2.xuexi.cn/?logout=1",
           "description": "供稿系统",
-          "icon": "/sitelogo/gonggao2.xuexi.cn.ico"
+          "icon": "/logo/xuexi.cn.png"
         }
       ]
     },
