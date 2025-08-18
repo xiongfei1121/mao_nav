@@ -467,20 +467,6 @@ export const mockData = {
       "order": 8,
       "sites": [
         {
-          "id": "json-formatter",
-          "name": "JSON Formatter",
-          "url": "https://jsonformatter.org",
-          "description": "JSON格式化工具",
-          "icon": "/sitelogo/jsonformatter.org.ico"
-        },
-        {
-          "id": "regex101",
-          "name": "Regex101",
-          "url": "https://regex101.com",
-          "description": "正则表达式测试",
-          "icon": "/sitelogo/regex101.com.ico"
-        },
-        {
           "id": "caniuse",
           "name": "Can I Use",
           "url": "https://caniuse.com",
@@ -521,6 +507,13 @@ export const mockData = {
           "url": "https://picwish.cn/ai-blur-background",
           "description": "AI模糊图片背景",
           "icon": "/sitelogo/zt.svg"
+        },
+        {
+          "id": "site-1755509920101",
+          "name": "speedtest",
+          "url": "https://www.speedtest.net/",
+          "description": "检测网速",
+          "icon": "/logo/speedtest.png"
         }
       ]
     },
