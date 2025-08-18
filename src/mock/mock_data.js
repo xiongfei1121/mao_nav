@@ -442,7 +442,7 @@ export const mockData = {
           "name": "国家中小学智慧教育平台",
           "url": "https://basic.smartedu.cn/",
           "description": "",
-          "icon": "/sitelogo/basic.smartedu.cn.ico"
+          "icon": "/logo/smartedu.cn.png"
         },
         {
           "id": "site-1754356876111",
